@@ -1,4 +1,4 @@
-title: My personal blog - 서울 종합 장식
+title: 서울종합건축 인테리어
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -9,7 +9,7 @@ baseurl:
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
-author: 서울 종합 장식 # add your name
+author: 서울종합건축 인테리어 # add your name
 author-pic: adam-face.jpg
 about-author: My name is Adam Neilson. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 2 years.
 
