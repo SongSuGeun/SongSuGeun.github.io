@@ -8,7 +8,7 @@ tags: [Intro, 오시는길]
 author: # Add name author (optional)
 ---
 
-**<h3 class="p2">찾아오시는 길</h3>**
+** <h3 class="p2">찾아오시는 길</h3> **<br>
 서울 은평구 역촌동 13 - 42<br>
 tel. 02 - 383 - 9690  / fax. 02-388 - 9690<br>
 hp. 010 - 3223 - 9690 / 016 - 223 - 9690<br>
