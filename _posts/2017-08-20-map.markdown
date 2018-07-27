@@ -17,4 +17,4 @@ tel. 02 - 383 - 9690  / fax. 02-388 - 9690<br>
 hp. 010 - 3223 - 9690 / 016 - 223 - 9690<br>
 Email. Shj954@naver.com<br>
 
-![ex mapmap] (./image/mapmapmap.jpg)
+![ex mapmap] (./img/mapmapmap.jpg)
