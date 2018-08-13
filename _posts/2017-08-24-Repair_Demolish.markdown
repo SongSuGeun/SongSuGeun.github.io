@@ -12,5 +12,16 @@ author: # Add name author (optional)
 ![Repair_DemolishPhoto]({{site.baseurl}}/assets/img/Repair_Demolish2.jpg)
 ![Repair_DemolishPhoto]({{site.baseurl}}/assets/img/Repair_Demolish3.jpg)
 ![Repair_DemolishPhoto]({{site.baseurl}}/assets/img/Repair_Demolish4.jpg)
+
+---
+
 ![Repair_DemolishPhoto]({{site.baseurl}}/assets/img/Repair_Demolish5.jpg)
 ![Repair_DemolishPhoto]({{site.baseurl}}/assets/img/Repair_Demolish6.jpg)
+![Repair_DemolishPhoto]({{site.baseurl}}/assets/img/Repair_Demolish7.jpg)
+![Repair_DemolishPhoto]({{site.baseurl}}/assets/img/Repair_Demolish8.jpg)
+
+---
+
+![Repair_DemolishPhoto]({{site.baseurl}}/assets/img/Repair_Demolish9.jpg)
+![Repair_DemolishPhoto]({{site.baseurl}}/assets/img/Repair_Demolish10.jpg)
+
