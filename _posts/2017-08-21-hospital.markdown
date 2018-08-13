@@ -7,3 +7,10 @@ img: post-5.jpg # Add image post (optional)
 tags: [병원]
 author: # Add name author (optional)
 ---
+
+![hospital]({{site.baseurl}}/assets/img/hospital1.jpg)
+![hospital]({{site.baseurl}}/assets/img/hospital2.jpg)
+![hospital]({{site.baseurl}}/assets/img/hospital3.jpg)
+![hospital]({{site.baseurl}}/assets/img/hospital4.jpg)
+![hospital]({{site.baseurl}}/assets/img/hospital5.jpg)
+![hospital]({{site.baseurl}}/assets/img/hospital6.jpg)
