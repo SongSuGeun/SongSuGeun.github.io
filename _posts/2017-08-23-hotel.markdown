@@ -7,3 +7,10 @@ img: post-3.jpg # Add image post (optional)
 tags: [호텔]
 author: # Add name author (optional)
 ---
+
+![HotelPhoto]({{site.baseurl}}/assets/img/Hotel1.jpg)
+![HotelPhoto]({{site.baseurl}}/assets/img/Hotel2.jpg)
+![HotelPhoto]({{site.baseurl}}/assets/img/Hotel3.jpg)
+![HotelPhoto]({{site.baseurl}}/assets/img/Hotel4.jpg)
+![HotelPhoto]({{site.baseurl}}/assets/img/Hotel5.jpg)
+![HotelPhoto]({{site.baseurl}}/assets/img/Hotel6.jpg)
