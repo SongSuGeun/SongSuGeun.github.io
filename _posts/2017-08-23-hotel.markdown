@@ -13,3 +13,9 @@ author: # Add name author (optional)
 ![HotelPhoto]({{site.baseurl}}/assets/img/Hotel3.jpg)
 ![HotelPhoto]({{site.baseurl}}/assets/img/Hotel4.jpg)
 ![HotelPhoto]({{site.baseurl}}/assets/img/Hotel5.jpg)
+
+---
+
+![HotelPhoto]({{site.baseurl}}/assets/img/Hotel6.jpg)
+![HotelPhoto]({{site.baseurl}}/assets/img/Hotel7.jpg)
+![HotelPhoto]({{site.baseurl}}/assets/img/Hotel8.jpg)
