@@ -7,3 +7,10 @@ img: post-2.jpg # Add image post (optional)
 tags: [보수&철거]
 author: # Add name author (optional)
 ---
+
+![Repair_DemolishPhoto]({{site.baseurl}}/assets/img/Repair_Demolish1.jpg)
+![Repair_DemolishPhoto]({{site.baseurl}}/assets/img/Repair_Demolish2.jpg)
+![Repair_DemolishPhoto]({{site.baseurl}}/assets/img/Repair_Demolish3.jpg)
+![Repair_DemolishPhoto]({{site.baseurl}}/assets/img/Repair_Demolish4.jpg)
+![Repair_DemolishPhoto]({{site.baseurl}}/assets/img/Repair_Demolish5.jpg)
+![Repair_DemolishPhoto]({{site.baseurl}}/assets/img/Repair_Demolish6.jpg)
